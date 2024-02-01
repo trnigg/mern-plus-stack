@@ -129,3 +129,4 @@ process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/[mern-boilerplate]'
 # STILL FOR ME TO ADD/CONFIGURE:
 
 - env and dotenv dev dependency
+- configure main.jsx, link router with pages in app.jsx
